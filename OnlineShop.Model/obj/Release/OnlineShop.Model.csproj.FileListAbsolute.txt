@@ -1,0 +1,10 @@
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\bin\Release\OnlineShop.Model.dll.config
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\bin\Release\OnlineShop.Model.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\bin\Release\OnlineShop.Model.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\bin\Release\EntityFramework.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\bin\Release\EntityFramework.SqlServer.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\bin\Release\EntityFramework.xml
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\bin\Release\EntityFramework.SqlServer.xml
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\obj\Release\OnlineShop.Model.csprojResolveAssemblyReference.cache
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\obj\Release\OnlineShop.Model.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.Model\obj\Release\OnlineShop.Model.pdb

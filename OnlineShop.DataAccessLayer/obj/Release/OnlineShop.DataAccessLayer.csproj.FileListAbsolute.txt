@@ -1,0 +1,9 @@
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\bin\Release\OnlineShop.DataAccessLayer.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\bin\Release\OnlineShop.DataAccessLayer.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\bin\Release\OnlineShop.Model.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\bin\Release\EntityFramework.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\bin\Release\OnlineShop.Model.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\bin\Release\EntityFramework.xml
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\obj\Release\OnlineShop.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\obj\Release\OnlineShop.DataAccessLayer.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.DataAccessLayer\obj\Release\OnlineShop.DataAccessLayer.pdb

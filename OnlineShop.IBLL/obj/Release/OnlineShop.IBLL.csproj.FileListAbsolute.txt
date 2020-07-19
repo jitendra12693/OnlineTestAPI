@@ -1,0 +1,9 @@
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\bin\Release\OnlineShop.IBLL.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\bin\Release\OnlineShop.IBLL.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\bin\Release\OnlineShop.Model.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\bin\Release\EntityFramework.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\bin\Release\OnlineShop.Model.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\bin\Release\EntityFramework.xml
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\obj\Release\OnlineShop.IBLL.csprojResolveAssemblyReference.cache
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\obj\Release\OnlineShop.IBLL.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.IBLL\obj\Release\OnlineShop.IBLL.pdb

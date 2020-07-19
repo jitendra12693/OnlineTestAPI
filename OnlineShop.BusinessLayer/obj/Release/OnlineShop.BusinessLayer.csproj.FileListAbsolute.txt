@@ -1,0 +1,13 @@
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.BusinessLayer.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.BusinessLayer.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.DataAccessLayer.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.IBLL.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.Model.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\EntityFramework.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.DataAccessLayer.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.IBLL.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\OnlineShop.Model.pdb
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\bin\Release\EntityFramework.xml
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\obj\Release\OnlineShop.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\obj\Release\OnlineShop.BusinessLayer.dll
+D:\Jitendra\AngularJSProject\AngularJsWebApi\OnlineShop.BusinessLayer\obj\Release\OnlineShop.BusinessLayer.pdb
