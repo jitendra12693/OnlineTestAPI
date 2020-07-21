@@ -40,6 +40,20 @@ namespace OnlineShop.BusinessLayer
             }
         }
 
+        ProductModel IProduct.RemoveProduct(ProductDetails product)
+        {
+            ProductModel list = new ProductModel();
+            try
+            {
+                list = iProduct.RemoveProduct(product);
+                return list;
+            }
+            catch (Exception)
+            {
+                return list;
+            }
+        }
+
         List<ProductDetails> IProduct.SearchProductByCategory(ProductDetails product)
         {
             List<ProductDetails> list = new List<ProductDetails>();

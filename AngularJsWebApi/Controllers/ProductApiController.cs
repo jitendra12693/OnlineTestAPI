@@ -44,6 +44,7 @@ namespace AngularJsWebApi.Controllers
                 return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
             }
         }
+
         [HttpPost]
         [Route("SaveProductDetails")]
         public async Task<HttpResponseMessage> SaveProductDetails(ProductDetails product)
@@ -55,6 +56,26 @@ namespace AngularJsWebApi.Controllers
                 await Task.Run(() =>
                 {
                     prodModel = iproduct.AddUpdateNewProduct(product);
+                });
+                return Request.CreateResponse(HttpStatusCode.OK, prodModel);
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
+        [HttpPost]
+        [Route("RemoveProduct")]
+        public async Task<HttpResponseMessage> RemoveProduct(ProductDetails product)
+        {
+            ProductModel prodModel = new ProductModel();
+            try
+            {
+                product.Action =  "D";
+                await Task.Run(() =>
+                {
+                    prodModel = iproduct.RemoveProduct(product);
                 });
                 return Request.CreateResponse(HttpStatusCode.OK, prodModel);
             }

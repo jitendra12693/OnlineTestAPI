@@ -136,5 +136,37 @@ namespace OnlineShop.DataAccessLayer
             catch (Exception ex) {            }
             return list;
         }
+
+        ProductModel IProductDA.RemoveProduct(ProductDetails product)
+        {
+            ProductModel list = new ProductModel();
+            try
+            {
+                DataSet ds = new DataSet();
+
+                if (connString.State == ConnectionState.Closed)
+                    connString.Open();
+                cmd = new SqlCommand("CRUDProduct", connString);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@ProductId", product.ProductId);
+                cmd.Parameters.AddWithValue("@Action", product.Action);
+                SqlDataAdapter sda = new SqlDataAdapter(cmd);
+                sda.Fill(ds);
+                sda.Dispose();
+
+                list = ExtensionMethods.ConvertToListOf<ProductModel>(ds.Tables[0]).FirstOrDefault();
+
+                return list;
+
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
+            finally
+            {
+                connString.Close();
+            }
+        }
     }
 }

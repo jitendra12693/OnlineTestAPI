@@ -12,5 +12,6 @@ namespace OnlineShop.IBLL
         ProductModel AddUpdateNewProduct(ProductDetails produt);
         List<ProductDetails> GetAllProductList(ProductDetails product);
         List<ProductDetails> SearchProductByCategory(ProductDetails product);
+        ProductModel RemoveProduct(ProductDetails product);
     }
 }

@@ -9,5 +9,6 @@ namespace OnlineShop.DataAccessLayer.Repository
         List<ProductDetails> GetAllProductList(ProductDetails product);
         List<M_Category> SelectAllCategory(int categoryId, int parentCategoryId);
         List<ProductDetails> SearchProductByCategory(ProductDetails product);
+        ProductModel RemoveProduct(ProductDetails product);
     }
 }
